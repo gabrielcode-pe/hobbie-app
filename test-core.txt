@@ -1,3 +1,7 @@
 This file is from core app
 
 more content in this file
+
+
+Otro contenido
+
